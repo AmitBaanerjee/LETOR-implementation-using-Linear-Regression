@@ -1,4 +1,5 @@
-LeToR-Problem-using-Linear-Regression
+#LeToR-Problem-using-Linear-Regression
+
 One of the reasons why Search Engines today are the go-to place to find information is because of Search Engine Optimization. Any person searching on the internet would like their search results to be as accurate as possible. In order to make future searches possible, we can use Machine Learning algorithms like Linear Regression and Gradient Descent to enhance the Search Engine Optimization process. In this project, our goal is to use the concepts of Linear Regression and Gradient Decent algorithms to solve the problem of Learning to Rank in Information Retrieval on Microsoft’s LeToR Dataset.
 
 Overview
